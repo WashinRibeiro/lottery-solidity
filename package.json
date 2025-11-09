@@ -1,0 +1,26 @@
+{
+  "name": "lottery-solidity",
+  "version": "1.0.0",
+  "description": "A simple decentralized lottery smart contract built with Solidity and Hardhat. Created as part of a practical blockchain learning project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WashinRibeiro/lottery-solidity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WashinRibeiro/lottery-solidity/issues"
+  },
+  "homepage": "https://github.com/WashinRibeiro/lottery-solidity#readme",
+  "devDependencies": {
+    "@types/node": "^22.19.0",
+    "hardhat": "^3.0.12",
+    "typescript": "~5.8.0"
+  },
+  "type": "module"
+}
